@@ -14,5 +14,9 @@ public class Strings {
         System.out.println("test string 4");
         System.out.println("test string 5");
         System.out.println("test string 6");
+
+
+        System.out.println("test string 7");
+        System.out.println("test string 8");
     }
 }
