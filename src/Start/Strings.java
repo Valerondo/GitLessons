@@ -12,5 +12,6 @@ public class Strings {
         System.out.println("My number is "+ x);
         System.out.println("test string 3");
         System.out.println("test string 4");
+        System.out.println("test string 5");
     }
 }
