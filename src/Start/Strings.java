@@ -18,6 +18,5 @@ public class Strings {
 
         System.out.println("test string 7");
         System.out.println("test string 8");
-        System.out.println("test string 9");
     }
 }
