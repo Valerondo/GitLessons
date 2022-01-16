@@ -10,5 +10,7 @@ public class Strings {
         System.out.println(hello+space+name);
         System.out.println("Hello"+" "+"Bob");
         System.out.println("My number is "+ x);
+        System.out.println("test string 1");
+        System.out.println("test string 2");
     }
 }
