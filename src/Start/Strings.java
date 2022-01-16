@@ -13,5 +13,6 @@ public class Strings {
         System.out.println("test string 3");
         System.out.println("test string 4");
         System.out.println("test string 5");
+        System.out.println("test string 6");
     }
 }
