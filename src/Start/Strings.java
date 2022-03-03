@@ -11,5 +11,9 @@ public class Strings {
         System.out.println(name.substring(0, 2));
         System.out.println(name.substring(0, 1));
 
+        //test string
+        //test string
+        //test string
+
     }
 }
