@@ -5,11 +5,19 @@ public class Strings {
         int x = 5;
         String hello = "Hello";
         String space = " ";
-        String name = "Valera11111";
+        String name = "Valera";
 
-        System.out.println(name.substring(0, 3));
-        System.out.println(name.substring(0, 2));
-        System.out.println(name.substring(0, 1));
+        System.out.println(hello+space+name);
+        System.out.println("Hello"+" "+"Bob");
+        System.out.println("My number is "+ x);
+        System.out.println("test string 3");
+        System.out.println("test string 4");
+        System.out.println("test string 5");
+        System.out.println("test string 6");
 
+
+        System.out.println("test string 7");
+        System.out.println("test string 8");
+        System.out.println("test string 9");
     }
 }
